@@ -13,8 +13,8 @@ export default function Histoire() {
     <>
       {/* Hero image */}
       <section className="relative min-h-[50vh] bg-noir flex items-end pb-14 overflow-hidden">
-        <img src="/new-img-1.jpeg" alt="Čaané — Notre Histoire"
-          className="absolute inset-0 w-full h-full object-cover" style={{ objectPosition: '55% 15%' }} />
+        <img src="/sautoir-cascade.jpeg" alt="Čaané — Notre Histoire"
+          className="absolute inset-0 w-full h-full object-cover" style={{ objectPosition: '50% 25%' }} />
         <div className="absolute inset-0 bg-gradient-to-b from-noir/10 via-transparent to-noir/75" />
         <div className="max-w-6xl mx-auto px-6 md:px-12 relative z-10 pt-24">
           <motion.h1 className="font-playfair font-bold text-cream leading-[1.05]"

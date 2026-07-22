@@ -34,7 +34,7 @@ export default function ProductCard({ product, index = 0, dark = false }) {
               <button
                 onClick={(e) => { e.preventDefault(); e.stopPropagation(); addItem(product) }}
                 className={`absolute bottom-0 left-0 right-0 font-jost font-light text-[8px] tracking-[0.2em] uppercase py-2.5 border-none cursor-pointer
-                  opacity-0 translate-y-2 group-hover:opacity-100 group-hover:translate-y-0 transition-all duration-300
+                  md:opacity-0 md:translate-y-2 md:group-hover:opacity-100 md:group-hover:translate-y-0 transition-all duration-300
                   ${dark ? 'bg-cream text-noir' : 'bg-noir text-cream'}`}
               >
                 Ajouter au panier

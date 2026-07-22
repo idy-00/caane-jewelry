@@ -5,10 +5,10 @@ export default function EditionEte() {
     <>
       <section className="relative min-h-[50vh] bg-noir flex items-end pb-14 overflow-hidden">
         <img
-          src="/editorial-plage.jpeg"
+          src="/new-img-3.jpeg"
           alt="Édition Été — Čaané"
           className="absolute inset-0 w-full h-full object-cover"
-          style={{ objectPosition: '50% 22%' }}
+          style={{ objectPosition: '50% 30%' }}
         />
         <div className="absolute inset-0 bg-gradient-to-b from-noir/5 via-transparent to-noir/75" />
         <div className="max-w-6xl mx-auto px-6 md:px-12 relative z-10 pt-24">
