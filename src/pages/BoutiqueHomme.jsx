@@ -16,7 +16,7 @@ export default function BoutiqueHomme() {
       <section className="relative bg-noir pt-24 pb-16 px-6 md:px-12 overflow-hidden">
         <div
           className="absolute inset-0 bg-cover bg-center opacity-15"
-          style={{ backgroundImage: 'url(/WhatsApp%20Image%202026-07-08%20at%203.54.37%20PM.jpeg)', backgroundPosition: '50% 30%' }}
+          style={{ backgroundImage: 'url(/caane-bague-bracelet.jpeg)', backgroundPosition: '50% 20%' }}
         />
         <div className="max-w-6xl mx-auto relative z-10">
           <motion.p

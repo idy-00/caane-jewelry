@@ -11,10 +11,10 @@ const collections = [
   },
   {
     label: 'Collection Homme',
-    sub: 'Bagues Signet · Bracelets · Chapelets',
+    sub: 'Bracelets Premium',
     to: '/boutique-homme',
-    image: '/WhatsApp%20Image%202026-07-08%20at%203.54.37%20PM.jpeg',
-    objectPos: '22% 38%',
+    image: '/caane-bague-bracelet.jpeg',
+    objectPos: '50% 20%',
   },
   {
     label: 'Édition Été',
